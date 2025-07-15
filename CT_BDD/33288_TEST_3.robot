@@ -12,7 +12,7 @@ Test Teardown    Test Teardown
 TEST_3
     [Documentation]    TEST_3
 
-    Given je suis dans les transports
+    Given Je vais travailler et que je suis dans les transports
     When je pars tôt
     Then il y a moins de monde
 
