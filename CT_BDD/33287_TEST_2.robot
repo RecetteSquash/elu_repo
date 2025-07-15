@@ -12,10 +12,6 @@ Test Teardown    Test Teardown
 TEST_2
     [Documentation]    TEST_2
 
-    Given Je n'ai pas dormi et que je suis fatigué
-    When je ferme les yeux
-    Then je m'endors
-
 
 *** Keywords ***
 Test Setup

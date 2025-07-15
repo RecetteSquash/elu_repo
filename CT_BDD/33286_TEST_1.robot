@@ -12,10 +12,6 @@ Test Teardown    Test Teardown
 TEST_1
     [Documentation]    TEST_1
 
-    Given Je suis à la plage et que j'ai très chaud
-    When je vais dans l'eau
-    Then j'ai froid
-
 
 *** Keywords ***
 Test Setup
